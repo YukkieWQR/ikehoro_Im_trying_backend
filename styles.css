@@ -1,0 +1,54 @@
+a{
+    color:blue;
+
+}
+a:visited{
+    color:red;
+
+}
+
+a:hover, a:active{
+    color:greenyellow;
+}
+
+body{
+    font-family:"Comic Sans MS", Helvetica, sans-serif;
+    font-size:20px;
+
+}
+
+.main{
+    font-family: Arial;
+    font-size:10px;
+    picture-width:10px;
+
+}
+.icon {
+    width: 20px;
+    display: block; /* or display: flex; */
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.bigicon {
+    width: 50px; /* This will set the width of all images */
+    margin-left: 50%;
+
+
+
+}
+input{
+    width: 200px;
+
+}
+.notmain{
+    font-family: "Comic Sans MS";
+    font-size:10px;
+    picture-width:10px;
+
+}
+
+.yoclass{
+    font-family: "HoloLens MDL2 Assets";
+    background: ;
+}
