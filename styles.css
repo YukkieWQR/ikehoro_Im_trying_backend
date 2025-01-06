@@ -50,5 +50,16 @@ input{
 
 .yoclass{
     font-family: "HoloLens MDL2 Assets";
-    background: ;
+    background: gray;
+    align-content: center;
+    width: 500px;
+    display: block; /* or display: flex; */
+
+    margin-left: auto;
+    margin-right: auto;
+
+    border: 10px dotted white;
+
+    padding: 40px;
+
 }
