@@ -14,6 +14,7 @@ a:hover, a:active{
 body{
     font-family:"Comic Sans MS", Helvetica, sans-serif;
     font-size:20px;
+    background: linear-gradient(138deg, #448a27 0%, #81d060 100%);
 
 }
 
@@ -62,4 +63,35 @@ input{
 
     padding: 40px;
 
+}
+.textbeforebutton{
+    font-family: "Poppins", sans-serif;
+    border-radius: 49px;
+
+
+    display: block;
+
+    margin-left: 50%;
+
+
+
+    font-weight: 500;
+    font-size: 32px;
+    color: white;
+    background-color: transparent;
+    border-color:green;
+}
+.button {
+    font-family: "Poppins", sans-serif;
+    border-radius: 49px;
+    padding: 14px 184px;
+    display: block;
+
+    margin-left: auto;
+    margin-right: auto;
+    font-weight: 500;
+    font-size: 32px;
+    color: white;
+    background-color: transparent;
+    border-color:green;
 }
