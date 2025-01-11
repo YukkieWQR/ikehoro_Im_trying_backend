@@ -26,7 +26,7 @@ body{
 }
 .icon {
     width: 20px;
-    display: block; /* or display: flex; */
+    display: block;
     margin-left: auto;
     margin-right: auto;
 }
@@ -94,4 +94,15 @@ input{
     color: white;
     background-color: transparent;
     border-color:green;
+}
+/* 9393437-16 */
+.picle {
+    position: absolute;
+    width: 254px;
+    height: 446.46px;
+    left: calc(50% - 254px / 2 - 2px);
+    top: 88px;
+
+
+    filter: drop-shadow(-65px 358px 102px rgba(0, 0, 0, 0.01)) drop-shadow(-42px 229px 93px rgba(0, 0, 0, 0.04)) drop-shadow(-23px 129px 79px rgba(0, 0, 0, 0.15)) drop-shadow(-10px 57px 58px rgba(0, 0, 0, 0.26)) drop-shadow(-3px 14px 32px rgba(0, 0, 0, 0.29));
 }
